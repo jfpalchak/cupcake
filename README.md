@@ -2,7 +2,7 @@
 
 #### By _Joey Palchak & Daisy Orozco_
 
-#### Demonstration site showcasing understanding of using Classes and IDs with HTML, CSS.
+#### Demonstration site showcasing understanding of using Classes and IDs with HTML, CSS. _Update:_ And simple JavaScript.
 
 ## Technologies Used
 
